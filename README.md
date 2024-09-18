@@ -1,12 +1,12 @@
 # Shopping Cart Management System 🛒
 
-## Overview 🌐
+## Overview 
 
 The **Shopping Cart Management System** is a comprehensive project implemented primarily in C, designed to manage a shopping cart with a variety of features such as adding, removing, and updating products, calculating totals, and managing inventory. This project showcases advanced programming concepts, including data structures, memory management, and user interaction via the command line. 
 
 A simplified web-based version is also provided to help visualize the core functionality of the system. The web version is intended as a visual aid to understand the main project but does not encompass all the advanced features available in the C implementation.
 
-## Features of the C Program ✨
+## Features of the C Program 
 
 - **Robust Data Management:** Efficient handling of product data, including addition, removal, and updating of products in the inventory.
 - **Dynamic Memory Allocation:** Uses dynamic memory allocation to manage cart items and inventory, allowing flexible and efficient memory use.
@@ -21,7 +21,7 @@ A simplified web-based version is also provided to help visualize the core funct
 
 The **web-based version** is a simplified representation of the shopping cart system, created using HTML, CSS, and JavaScript. It is designed to provide a visual understanding of the basic functionalities of the project but lacks the comprehensive features of the C implementation.
 
-### Current Design 🖼️
+### Current Design 
 
 Here are some snapshots demonstrating the web version of the project:
 
@@ -54,7 +54,7 @@ Here are some snapshots demonstrating the web version of the project:
 - **JavaScript:** Handles basic dynamic interactions such as adding items to the cart and updating totals.
 - **Bootstrap:** Used for responsive design and styling.
 
-## Conclusion 📝
+## Conclusion 
 
 The **Shopping Cart Management System** is an advanced project that demonstrates key concepts in C programming, including data management, dynamic memory allocation, and file handling. While the web-based version serves as a visual aid to understand the core concept, the full functionality and depth are implemented in the C program. This project is ideal for those looking to explore advanced C programming techniques and understand how to manage complex data in applications.
 
